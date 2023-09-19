@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+
+    font-size: 16px;
+}
+
+div.primeiro_bloco{
+background-color: yellow;
+font-size: 1em;
+} 
+
+.texto1 {
+    background-color: blue;
+    font-size: 1.5em;
+}
+
+.texto1{
+    font-size: 1.0;
+    color:aqua;
+}
+
+section#segundo{
+font-size: 1.5;
+background-color:brown;
+}
+.texto2{
+    font-size: 2.0;
+    background-color:blueviolet;
+}
+section#terceiro{ 
+    
+
+    font-size:2.5;
+    color: black;
+}
+
+
+.texto3{
+font-size: 3.0;
+color:azure
+
+}

@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body { 
+    font-family: sans-serif;
+    font-size:17px;
+    color:red;
+    line-height:1.6;
+}
+
+header#showcase {
+    background-image: url('recife.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+header#showcase h1{
+
+font-size:3em;/* 17px * 3=51px */
+line-heigh:1.2;
+
+}
+
+header#showcase p {
+
+    font-size: 1.25em; /* font-size: 17px e 1.25em =17*1.25=20,4px  */
+    margin-bottom: 20px;
+
+}
+.btn{
+
+    border: 2px  solid yellow;
+
+    padding: 1rem;
+}
+
+.btn:hover{
+
+    opacity:1;
+}
+#section-a{
+padding:1.2em;
+background-color:aqua;
+color:blueviolet;
+text-align: center;
+
+
+}
+
+
+
